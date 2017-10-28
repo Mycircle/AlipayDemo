@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         initView();
     }
 
+    //我第一次修改；
     private void initView() {
         toolBar = (Toolbar) findViewById(R.id.tool_bar);
     }
